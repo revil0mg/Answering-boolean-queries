@@ -1,0 +1,13 @@
+Interface OR System	d1 d2 d3 d4 d5 d6
+Sensitive AND Information	d2 d4 d6
+Semantic OR Web	d1 d2 d4 d5 d6
+Retrieval OR Query	d1 d2 d3 d4 d5 d6
+We AND Present	d2 d3 d4 d5 
+Siloed OR system	d1 d2 d3 d4 d5 d6
+Labeled AND Data	d1 
+Pseudo OR Feedback	d2 
+Search AND Expertise	d3 
+Relevance AND Estimation	d5 
+Ranking OR Model	d1 d3 d5 d6
+Seeking AND Sensemaking 	d6
+San AND Diego	-1
